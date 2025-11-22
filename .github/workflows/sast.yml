@@ -39,4 +39,4 @@ jobs:
             -Dsonar.projectKey=tp-sast \
             -Dsonar.sources=. \
             -Dsonar.host.url=http://localhost:9000 \
-            -Dsonar.login=$SONAR_TOKEN
+            -Dsonar.login=sqa_18616edb57f4907b53c50c59e7edfa2a1dc3ccbc
